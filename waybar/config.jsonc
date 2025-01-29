@@ -25,7 +25,6 @@
         "backlight",
         "wireplumber",
         "battery",
-        "disk",
         "memory",
         "cpu",
         "temperature",
