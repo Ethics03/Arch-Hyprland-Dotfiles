@@ -3,7 +3,7 @@
 Clone this repo with this command:
 
 ```bash
-git clone https://github.com/Ethics03/Linut-Mint-Dotfiles.git
+git clone https://github.com/Ethics03/Arch-Hyprland-Dotfiles.git
 ```
 
 # Dependencies ->
