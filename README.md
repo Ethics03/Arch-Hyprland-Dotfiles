@@ -14,12 +14,13 @@ git clone https://github.com/Ethics03/Arch-Hyprland-Dotfiles.git
 waybar
 hyprshot
 hyprpaper
-dunst
+swaync
 kitty
 wofi
 neofetch
 
 ```
+Make sure you install all the packages before using the configuration
 
 # Showcase -> 
 
